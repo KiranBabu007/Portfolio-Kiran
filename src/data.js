@@ -54,6 +54,6 @@ export const skills = [
   "Java","C","JavaScript",
   "Python","React","HTML","CSS",
   "Tailwind CSS","Bootstrap",
-  "Git"
+  "Git","Node.js","Express.js"
 
 ];
