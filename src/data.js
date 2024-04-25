@@ -8,6 +8,14 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
+    title: "Maveli Portfolio",
+    subtitle: "Bootstrap and Javascript",
+    description:
+      "Portfolio developed for Maveli,as part of Mavelikk-oru-Portfolio Event cinducted my GTech Mulearn",
+    image: "./Maveli.gif",
+    link: "https://reactbootcamp.com",
+  },
+  {
     title: "K-FLIX",
     subtitle: "React and OMDB API",
     description:
@@ -51,9 +59,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "Java","C","JavaScript",
-  "Python","React","HTML","CSS",
-  "Tailwind CSS","Bootstrap",
+  "JavaScript",
+  "Python","C","HTML","CSS",
+  "Tailwind CSS","Bootstrap","React.js",
+  "Next.js","Firebase",
   "Git","Node.js","Express.js"
 
 ];
