@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "Maveli Portfolio",
-    subtitle: "Bootstrap and Javascript",
+    title: "Curently",
+    subtitle: "React Native + Expo and Firebase",
     description:
-      "Portfolio developed for Maveli,as part of Mavelikk-oru-Portfolio Event cinducted my GTech Mulearn",
+      "A Hardware + Software Project Which measures the household Energy Consumption and help reduce the electricty bill,",
     image: "./Maveli.gif",
     link: "https://reactbootcamp.com",
   },
