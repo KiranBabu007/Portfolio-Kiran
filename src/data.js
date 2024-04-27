@@ -33,22 +33,21 @@ export const projects = [
     link: "https://drive.google.com/file/d/1a-6ZnnnmEvt577iuf9rc2nS-jsglSfGu/view?usp=sharing",
   },
   {
+    title: "Digital-Menu",
+    subtitle: "React + Vite + SupaBase",
+    description:
+      "a unified platform for restaurants and customers, streamlining the ordering process and enhancing management capabilities. With real-time features, users and restaurants can easily browse menus, place orders, and manage inventory.",
+    image: "./menu.png",
+    link: "https://digital-menu-tva.netlify.app/",
+  },
+  {
     title: "Tic-Tac-Toe",
     subtitle: "React",
     description:
       "Simple Tic-Tac-Toe Game developed using React, It shows the Winner and also has a reset functionality to start the game form scratch again                                                                                                                                                                                          .",
     image: "./Tic-Tac-Toe.gif",
     link: "https://kiran-tic-tac-toe.netlify.app/",
-  },
-
-  {
-    title: "Digital Clock",
-    subtitle: "HTML,CSS and JS",
-    description:
-      "An Elegant looking Digital Clock developed using HTML,CSS and Js ,with a 24 hour format Click to see the live Time update in the clock",
-    image: "./Clock.gif",
-    link: "https://kiran-digitalclock.netlify.app/",
-  },
+  }
 ];
 
 export const skills = [
@@ -56,6 +55,6 @@ export const skills = [
   "Python", "C", "HTML", "CSS",
   "Tailwind CSS", "Bootstrap", "React.js",
   "Next.js", "Firebase",
-  "Git", "Node.js", "Express.js","TypeScript","Java","Postman",
+  "Git", "Node.js", "Express.js", "TypeScript", "Java", "Postman",
 
 ];
