@@ -56,5 +56,4 @@ export const skills = [
   "Tailwind CSS", "Bootstrap", "React.js",
   "Next.js", "Firebase",
   "Git", "Node.js", "Express.js", "TypeScript", "Java", "Postman",
-
 ];
