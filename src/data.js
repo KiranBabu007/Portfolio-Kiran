@@ -30,7 +30,7 @@ export const projects = [
     description:
       "A Hardware + Software Project Which measures the household Energy Consumption and help reduce the electricty bill,",
     image: "./curently.gif",
-    link: "https://drive.google.com/file/d/1a-6ZnnnmEvt577iuf9rc2nS-jsglSfGu/view?usp=sharing",
+    link: "https://github.com/KiranBabu007/Curently",
   },
   {
     title: "Digital-Menu",
