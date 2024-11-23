@@ -33,12 +33,12 @@ export const projects = [
     link: "https://github.com/KiranBabu007/Curently",
   },
   {
-    title: "Digital-Menu",
-    subtitle: "React + Vite + SupaBase",
-    description:
-      "a unified platform for restaurants and customers, streamlining the ordering process and enhancing management capabilities. With real-time features, users and restaurants can easily browse menus, place orders, and manage inventory.",
-    image: "./menu.png",
-    link: "https://digital-menu-tva.netlify.app/",
+    title: "Netflix-Clone",
+subtitle: "React + Tailwind CSS",
+description:
+  "A  Netflix clone replicating the core UI and experience of Netflix. ",
+image: "./netflix.gif",
+link: "https://netflix-kiran.vercel.app/",
   },
   {
     title: "Tic-Tac-Toe",
